@@ -1,6 +1,6 @@
 # Flipkart
-Fashion
-Grocery
-Dining
-Kitchen 
-Electronics
+discount
+price
+brand
+color
+
